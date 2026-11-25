@@ -1,3 +1,5 @@
+![Deconstruct: Learn how an app, site or game feature works by taking it apart, rebuilding it, then designing something original.](.github/banner.png)
+
 # Deconstruct
 
 A Claude skill for learning how apps, websites and games work by taking one feature apart: gather evidence from
